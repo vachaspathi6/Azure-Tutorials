@@ -8,17 +8,3 @@ The data for analysis is sourced from [Kaggle's Telco Customer Churn](https://ww
 ```
 streamlit run run.py
 ```
-
-**Sample query to give a straightforward answer.**
-![alt text](https://github.com/easonlai/chat_with_csv_streamlit_with_chart/blob/main/git-images/git-image-1.png)
-
-**Sample query to show the result in the table.**
-![alt text](https://github.com/easonlai/chat_with_csv_streamlit_with_chart/blob/main/git-images/git-image-2.png)
-
-**Sample query to show the result in a bar chart.**
-![alt text](https://github.com/easonlai/chat_with_csv_streamlit_with_chart/blob/main/git-images/git-image-3.png)
-
-**Sample query to show the result in a pie chart.**
-![alt text](https://github.com/easonlai/chat_with_csv_streamlit_with_chart/blob/main/git-images/git-image-4.png)
-
-Enjoy!
